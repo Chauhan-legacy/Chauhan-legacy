@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm **Priyansh Chauhan**  
-### 🚀 *Future-Ready Developer | AI Visionary | Hackathon Enthusiast | Strategic Thinker*  
+### 🚀 Future-Ready Developer | AI Visionary | Hackathon Enthusiast | Strategic Thinker  
 
 ## 💡 **About Me**  
 🔹 Passionate about **technology, innovation, and problem-solving**  
@@ -27,4 +27,4 @@
 
 ## 📫 **Connect With Me**  
 📧 Email: Priyansh.AI@outlook.com  
-🔗 *[LinkedIn](#) | [GitHub](https://github.com/Chauhan-legacy) |[Discord](https://discord.gg/3W9nEtEs) |[Twitter](#)* 
+🔗 *[LinkedIn](#) | [GitHub](https://github.com/Chauhan-legacy) | 🤖[Discord](https://discord.gg/3W9nEtEs)  |[Twitter](#) | [Hugging-Face🤗](https://huggingface.co/Priyansh-Chauhan) |[Mastodon](https://mastodon.social/@Priyansh_Chauhan)| * 
