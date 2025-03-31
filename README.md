@@ -27,4 +27,4 @@
 
 ## 📫 **Connect With Me**  
 📧 Email: Priyansh.AI@outlook.com  
-🔗 *[LinkedIn](#) | [GitHub](https://github.com/Chauhan-legacy) | 🤖[Discord](https://discord.gg/3W9nEtEs)  |[Twitter](#) | [Hugging-Face🤗](https://huggingface.co/Priyansh-Chauhan) |[Mastodon](https://mastodon.social/@Priyansh_Chauhan)| * 
+🔗 **[LinkedIn](#) | [Twitter](#) |*📍* [GitHub](https://github.com/Chauhan-legacy) |*📍* [Discord](https://discord.gg/3W9nEtEs)  | *📍* [Hugging-Face](https://huggingface.co/Priyansh-Chauhan) | *📍*[Mastodon](https://mastodon.social/@Priyansh_Chauhan)|**
